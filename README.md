@@ -1,7 +1,7 @@
 # Fresh Chat RTC
 
 A `fresh` chat app that leverages both Server-Sent-Events, and    
-deploys `BroadcastChannel` to create a WebRTC signal server.
+deploys `BroadcastChannel` to create a WebRTC signal server.    
 This signal server api is then used to connect two peers over a WebRTC-Datachannel.
 
 The advantage of using this communication strategy is that after the    
