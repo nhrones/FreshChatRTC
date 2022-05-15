@@ -4,9 +4,8 @@ A `fresh` chat app that leverages both Server-Sent-Events, and
 deploys `BroadcastChannel` to create a WebRTC signal server.    
 This signal server api is then used to connect two peers over a WebRTC-Datachannel.
 
-The advantage of using this communication strategy is that after the    
-dataChannel has been negociated, the Signal service is no longer required   
-allowing the deploy isolates to terminate gracefully.
+The advantage of using this communication strategy is that after the        
+dataChannel has been negociated, the signal service is no longer required.
 
 [![comms](./comms.png)](https://rtc-dice-app-server.deno.dev/)    
  
