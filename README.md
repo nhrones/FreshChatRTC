@@ -1,5 +1,11 @@
 # Fresh Chat RTC
 
+A `fresh` chat app that leverages deploy `BroadcastChannel`    
+as a signal server used to connect two peers over a WebRTC-Datachannel.
+
+[![comms](./comms.png)](https://rtc-dice-app-server.deno.dev/)    
+ 
+
 ### Usage
 
 To start the application:
