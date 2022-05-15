@@ -1,4 +1,4 @@
-# Fresh Chat
+# Fresh Chat RTC
 
 ### Usage
 
@@ -15,4 +15,4 @@ run:
 ```
 fresh manifest
 ```
-Run it ... https://fresh-chat2.deno.dev/
+Run it ... https://fresh-chat-rtc.deno.dev/
